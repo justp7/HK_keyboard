@@ -33,4 +33,5 @@ HK航顺芯片，因为本款MCU没有USB引脚支持，因此采用的是串口
 可将其接入智能家居类，控制智能家具亮度等。
 通过按钮绑定MQTT消息即可实现。
 
-##  
+##开源地址
+[立创EDA开源中心](https://oshwhub.com/LC717863696/duo-gong-neng-xiao-jian-pan)
